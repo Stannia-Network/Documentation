@@ -43,3 +43,9 @@ Provides players with the ability to set their own homes. Amount of homes can be
 _Compatible versions: 1.18_
 
 Plugin that will let players configure what items to not pickup, and when to stop picking them up. Solves the problem of filling your inventory with blocks/items you'll eventually throw away anyway.
+
+#### :speech\_balloon: Discord Integration
+
+_Compatible versions: 1.18_
+
+Provides integration for Discord servers and Minecraft servers. Supports webhooks as well as Discord bot(s). It's a highly flexible and configurable integration plugin. It also has an API that other plugins can use to extend it's functionality further.

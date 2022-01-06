@@ -28,6 +28,7 @@
   * [🎮 Durability Control](server-owners/official-plugins/durability-control.md)
   * [🎮 Player Homes](server-owners/official-plugins/player-homes.md)
   * [🎮 Pickup Item Control](server-owners/official-plugins/pickup-item-control.md)
+  * [💬 Discord Integration](server-owners/official-plugins/discord-integration.md)
 
 ## Developers
 
