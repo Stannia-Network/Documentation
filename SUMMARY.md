@@ -31,6 +31,8 @@
 
 ## Developers
 
-* [Plugin Development](developers/plugin-development.md)
+* [Plugin Development](developers/plugin-development/README.md)
+  * [Example Plugins](developers/plugin-development/example-plugins.md)
 * [Player Settings](developers/player-settings.md)
 * [Player Flags](developers/player-flags.md)
+* [Commands](developers/commands.md)
