@@ -17,9 +17,9 @@ description: >-
 * Supports custom value parsing
   * Default is to parse to a String
 * Generic commands to lookup available settings as well as chat message click/hover actions.
-  * See [Players - Player Settings](../../players/player-settings.md) for more details on these commands.
+  * See [Players - Player Settings](../players/player-settings.md) for more details on these commands.
 
-#### Kotlin Example
+#### Code Example
 
 {% code title="DurabilityControlPlugin.kt" %}
 ```kotlin
@@ -66,7 +66,3 @@ enum class DurabilityControlSetting(
 }
 ```
 {% endcode %}
-
-#### Java Example
-
-_Not yet available._

@@ -37,6 +37,5 @@
 
 ## Developers
 
-* [Stannia Plugin Library](developers/stannia-plugin-library/README.md)
-  * [Player Settings](developers/stannia-plugin-library/player-settings.md)
-  * [Player Flags](developers/stannia-plugin-library/player-flags.md)
+* [Player Settings](developers/player-settings.md)
+* [Player Flags](developers/player-flags.md)

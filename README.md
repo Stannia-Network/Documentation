@@ -7,11 +7,11 @@ description: >-
 
 # Stannia Plugins
 
-Welcome to Stannia's documentation. We're planning to run official Stannia Minecraft servers eventually. However, before we can do that, we need a solid foundation to build custom functionality off of, which is why we're developing [Stannia's Plugin Library](developers/stannia-plugin-library/).
+Welcome to Stannia's documentation. We're planning to run official Stannia Minecraft servers eventually. However, before we can do that, we need a solid foundation to build custom functionality off of, which is why we're developing [Stannia's Plugin Library](broken-reference).
 
 In the process we thought; why not contribute to the great community we have in Minecraft. We want to give back to the community that has given us a ton of their time, effort and genius ideas.
 
-We mainly write everything using [Kotlin ](https://kotlinlang.org)and [Gradle](https://gradle.org). If you're a developer looking to use our libraries for your own plugins, it's highly recommended that you also write [Kotlin](https://kotlinlang.org), although not impossible to use our libraries with Java-based plugins.
+We mainly write everything using [Kotlin ](https://kotlinlang.org)and [Gradle](https://gradle.org). If you're a developer looking to use our libraries for your own plugins, it's highly recommended that you also write [Kotlin](https://kotlinlang.org),  not everything will be directly supported in Java.
 
 ### Server Compatibility
 
