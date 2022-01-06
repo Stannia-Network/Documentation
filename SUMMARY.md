@@ -1,12 +1,6 @@
 # Table of contents
 
-* [Stannia Plugins](README.md)
-
-## Stannia
-
-* [Official Servers](stannia/official-servers.md)
-* [Who Are We?](stannia/who-are-we.md)
-* [Donations](stannia/donations.md)
+* [Stannia](README.md)
 
 ## Players
 
@@ -37,5 +31,6 @@
 
 ## Developers
 
+* [Plugin Development](developers/plugin-development.md)
 * [Player Settings](developers/player-settings.md)
 * [Player Flags](developers/player-flags.md)
