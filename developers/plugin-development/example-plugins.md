@@ -8,8 +8,8 @@ description: >-
 
 ## Dummy Plugins
 
-* Basic Dummy Plugin
-  * View on: [GitHub](https://github.com/Stannia-Network)
+* **Basic Dummy Plugin**
+  * **View on**: [GitHub](https://github.com/Stannia-Network)
   * **Uses**: [_Translations_](../translations.md)_,_ [_Player Settings_](../player-settings.md)_,_ [_Player Flags_](../player-flags.md)_,_ [_Commands_](../commands.md)
 
 ## Actual Plugins
