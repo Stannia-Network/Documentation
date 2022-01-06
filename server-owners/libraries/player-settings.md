@@ -21,6 +21,7 @@ This example will have following permissions:
 * stannia.setting.<mark style="color:blue;">**some-setting**</mark>.values.<mark style="color:blue;">**vip**</mark>
 * stannia.setting.<mark style="color:blue;">**some-setting**</mark>.values.<mark style="color:blue;">**staff**</mark>
 
+{% code title="settings.yml" %}
 ```yaml
 ---
 - some-setting
@@ -36,6 +37,7 @@ This example will have following permissions:
             min: 5
             max: 150
 ```
+{% endcode %}
 
 You can set min and max number for certain permissions.
 
