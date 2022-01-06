@@ -18,7 +18,7 @@
 
 * [Custom Implementation](server-owners/custom-implementation.md)
 * [Libraries](server-owners/libraries/README.md)
-  * [🇸🇯 Translations](server-owners/libraries/translations.md)
+  * [🇸🇯 🇸🇯 Translations](server-owners/libraries/translations.md)
   * [⚙ Player Settings](server-owners/libraries/player-settings.md)
   * [💻 Commands](server-owners/libraries/commands.md)
 * [Official Plugins](server-owners/official-plugins/README.md)
@@ -36,3 +36,4 @@
 * [Player Settings](developers/player-settings.md)
 * [Player Flags](developers/player-flags.md)
 * [Commands](developers/commands.md)
+* [Translations](developers/translations.md)
