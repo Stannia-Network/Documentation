@@ -5,6 +5,8 @@
 ## Players
 
 * [Player Settings](players/player-settings.md)
+* [Player Flags](players/player-flags.md)
+* [Language](players/language.md)
 * [Official Plugins](players/official-plugins/README.md)
   * [🛠 Plugin API Library](players/official-plugins/plugin-api-library.md)
   * [⚙ Basic Economy](players/official-plugins/basic-economy.md)
