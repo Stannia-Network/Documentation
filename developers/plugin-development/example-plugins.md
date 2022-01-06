@@ -6,9 +6,23 @@ description: >-
 
 # Example Plugins
 
+## Dummy Plugins
+* Basic Dummy Plugin
+  * View on: GitHub
+  * **Uses**: _[Translations][translations], [Player Settings][player-settings], [Player Flags][player-flags], [Commands][commands]_
+
+## Actual Plugins
 * Durability Control
-  * **Uses**: _Translations, Player Settings_
+  * View on: GitHub | SpigotMC
+  * **Uses**: _[Translations][translations], [Player Settings][player-settings], [Player Flags][player-flags]_
 * Pickup Item Control
-  * **Uses**: _Translations, Player Settings_
+  * View on: GitHub | SpigotMC
+  * **Uses**: _[Translations][translations], [Player Settings][player-settings]_
 * Player Homes
-  * **Uses**: _Translations, Player Settings, Commands_
+  * View on: GitHub | SpigotMC
+  * **Uses**: _[Translations][translations], [Player Settings][player-settings], [Commands][commands]_
+
+[player-settings]: ../player-settings.md
+[commands]: ../commands.md
+[translations]: ../translations.md
+[player-flags]: ../player-flags.md
