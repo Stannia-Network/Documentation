@@ -2,6 +2,12 @@
 
 * [Stannia Plugins](README.md)
 
+## Stannia
+
+* [Official Servers](stannia/official-servers.md)
+* [Who Are We?](stannia/who-are-we.md)
+* [Donations](stannia/donations.md)
+
 ## Players
 
 * [Player Settings](players/player-settings.md)
