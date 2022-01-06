@@ -13,8 +13,8 @@ If you insist on writing in Java, there are probably more compatible libraries f
 
 ### Server Compatibility
 
-| Initial Version | Minecraft 1.18                                                    |
-| --------------- | ----------------------------------------------------------------- |
-| Tested Servers  | [PaperMC](https://papermc.io), [Spigot](https://www.spigotmc.org) |
-| Tested Versions | 1.18                                                              |
+| Initial Version | Minecraft 1.18                                                  |
+| --------------- | --------------------------------------------------------------- |
+| Tested Servers  | [Paper](https://papermc.io), [Spigot](https://www.spigotmc.org) |
+| Tested Versions | 1.18                                                            |
 
